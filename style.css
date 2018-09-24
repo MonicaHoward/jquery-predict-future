@@ -11,3 +11,8 @@ nav {
 button {
     position: fixed;
 }
+.trans {
+    font-size: 3em;
+    opacity: .3;
+    margin: 10% auto;
+}
